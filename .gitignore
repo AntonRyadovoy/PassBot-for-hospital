@@ -1,0 +1,15 @@
+.env
+
+.git/
+
+.idea/
+
+__pycache__/
+
+docker-compose.yml
+
+dmkusers
+
+credsdmk.json
+
+
